@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beslagicadin
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Java Android applications
+- 👀 Main interests: C / C++/ C# / Java / Android / Windows
+- 🌱 Currently working on Java Android developement
 - 📫 Contact me via mail: beslagicadin@gmail.com
 
 <!---

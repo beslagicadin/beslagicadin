@@ -7,11 +7,6 @@
 beslagicadin/beslagicadin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
-<a  color="" href="https://github.com/beslagicadin">
-<img src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&theme=dark&line_height=27&icon_color=none&text_color=none&bg_color=black" alt="beslagicadin github stats"/>
-</a>
-</p>
 
 <p align="center">
 <a href="https://github.com/beslagicadin">

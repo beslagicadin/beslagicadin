@@ -1,14 +1,16 @@
+<head>
+  <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=6091ca52ccbbe50012c02b0a&product=inline-follow-buttons" async="async"></script>
+  </head>
 <h1 align="center">Hi 👋, I'm Bešlagić Adin</h1>
 <h3 align="center"> Student of informatics and computer science</h3>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=beslagicadin&label=Profile%20views&color=0e75b6&style=flat" alt="beslagicadin" /> 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbeslagicadin&tabs=timeline&width=180&height=70&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="180" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <img src="https://komarev.com/ghpvc/?username=beslagicadin&label=Profile%20views&color=0e75b6&style=flat" alt="beslagicadin"/> 
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/adin-bešlagić-858505a9/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620144535~hmac=42b4412ad5a2f35f1fc8a12f0058e587" alt="Adin Bešlagić LinkedIn" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/beslagicadin/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620144535~hmac=42b4412ad5a2f35f1fc8a12f0058e587" alt="Adin Bešlagić LinkedIn" height="50" width="50" /></a>
   <a href="https://www.facebook.com/beslagicadin/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1419/1419497.svg?token=exp=1620144468~hmac=be28fb318eb563a69fe27a9fbb5c13d2" alt="Adin Bešlagić Facebook" height="50" width="50" /></a>
   <a href="https://www.instagram.com/beslagicadin/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62249321/117031986-679f5580-ad01-11eb-9a62-29184c190f86.png" alt="Adin Bešlagić Instagram" height="50" width="50" /></a>
   <a href="mailto:beslagicadin@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="Adin Bešlagić Instagram" height="50" width="50" /></a>
@@ -40,7 +42,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true&locale=en&layout=compact" alt="beslagicadin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&locale=en" alt="beslagicadin" /></p>
+  
+<div class="sharethis-inline-follow-buttons"></div>
 
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fbeslagicadin&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>  
 <!---
 beslagicadin/beslagicadin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

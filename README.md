@@ -1,6 +1,3 @@
-<head>
-  <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=6091ca52ccbbe50012c02b0a&product=inline-follow-buttons" async="async"></script>
-  </head>
 <h1 align="center">Hi 👋, I'm Bešlagić Adin</h1>
 <h3 align="center"> Student of informatics and computer science</h3>
 
@@ -45,7 +42,4 @@
   
 <div class="sharethis-inline-follow-buttons"></div>
 
-<!---
-beslagicadin/beslagicadin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fbeslagicadin&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>  

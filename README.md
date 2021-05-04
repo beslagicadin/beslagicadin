@@ -39,7 +39,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60" width="60" /> </a>
 </p>
  </div>
-<div style="float: left;">
+<div style="float: right;">
 <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true&locale=en&layout=compact" alt="beslagicadin"/>

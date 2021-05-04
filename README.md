@@ -44,3 +44,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&locale=en" alt="beslagicadin" />
 </p>
+<footer> <small>&copy; Copyright 2021, Adin Bešlagić</small> </footer> 

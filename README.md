@@ -14,7 +14,7 @@
   <br><br>
 </p>
 <div>
-  <div>
+  <div style="float: left;">
 <h3 align="center">🌐Languages and Tools🔧</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60" width="60" /> </a>
@@ -39,7 +39,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60" width="60" /> </a>
 </p>
  </div>
-<div>
+<div style="float: left;">
 <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true&locale=en&layout=compact" alt="beslagicadin"/>

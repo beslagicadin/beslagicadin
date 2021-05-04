@@ -13,8 +13,6 @@
   <a href="mailto:beslagicadin@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="Adin Bešlagić Instagram" height="60" width="60" /></a>
   <br><br>
 </p>
-<div>
-  <div style="float: left;">
 <h3 align="center">🌐Languages and Tools🔧</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60" width="60" /> </a>
@@ -38,8 +36,6 @@
   <br>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60" width="60" /> </a>
 </p>
- </div>
-<div style="float: right;">
 <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true&locale=en&layout=compact" alt="beslagicadin"/>
@@ -48,7 +44,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&locale=en" alt="beslagicadin" />
 </p>
-</div>
-  </div>
   <br>  <br>  <br>
   <footer> <small>&copy; Copyright 2021, Adin Bešlagić</small> </footer> 

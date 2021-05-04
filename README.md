@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bešlagić Adin</h1>
 <h3 align="center"> Student of informatics and computer science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beslagicadin&label=Profile%20views&color=0e75b6&style=flat" alt="beslagicadin" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=beslagicadin&label=Profile%20views&color=0e75b6&style=flat" alt="beslagicadin" /> 
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fbeslagicadin&tabs=timeline&width=180&height=70&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="180" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bešlagić Adin</h1>
-<h3 align="center"> Student of informatics and computer science</h3>
+<h3 align="center"> 📖 Student of informatics and computer science 🖥️⌨️🖱️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=beslagicadin&label=Profile%20views&color=0e75b6&style=flat" alt="beslagicadin" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/beslagicadin/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620144535~hmac=42b4412ad5a2f35f1fc8a12f0058e587" alt="Adin Bešlagić LinkedIn" height="60" width="60" /></a>
   <a href="https://www.facebook.com/beslagicadin/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1419/1419497.svg?token=exp=1620144468~hmac=be28fb318eb563a69fe27a9fbb5c13d2" alt="Adin Bešlagić Facebook" height="60" width="60" /></a>
@@ -13,7 +13,7 @@
   <a href="mailto:beslagicadin@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="Adin Bešlagić Instagram" height="60" width="60" /></a>
   <br><br>
 </p>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🌐Languages and Tools🔧</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60" width="60" /> </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="androidStudio" height="65" width="65" /> </a>

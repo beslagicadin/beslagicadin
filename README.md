@@ -14,6 +14,7 @@
   <br><br>
 </p>
 <div>
+  <div>
 <h3 align="center">🌐Languages and Tools🔧</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60" width="60" /> </a>
@@ -48,5 +49,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&locale=en" alt="beslagicadin" />
 </p>
 </div>
+  </div>
   <br>  <br>  <br>
   <footer> <small>&copy; Copyright 2021, Adin Bešlagić</small> </footer> 

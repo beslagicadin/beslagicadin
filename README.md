@@ -38,4 +38,4 @@
       
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true&locale=en&layout=compact" alt="beslagicadin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&locale=en" alt="beslagicadin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&locale=en" alt="beslagicadin" /></p>

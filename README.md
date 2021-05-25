@@ -8,7 +8,7 @@
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/beslagicadin/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Adin Bešlagić LinkedIn" height="60" width="60" /></a>
-  <a href="https://www.facebook.com/beslagicadin/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1419/1419497.svg?token=exp=1620144468~hmac=be28fb318eb563a69fe27a9fbb5c13d2" alt="Adin Bešlagić Facebook" height="60" width="60" /></a>
+  <a href="https://www.facebook.com/beslagicadin/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384053.png" alt="Adin Bešlagić Facebook" height="60" width="60" /></a>
   <a href="https://www.instagram.com/beslagicadin/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62249321/117031986-679f5580-ad01-11eb-9a62-29184c190f86.png" alt="Adin Bešlagić Instagram" height="60" width="60" /></a>
   <a href="mailto:beslagicadin@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="Adin Bešlagić Instagram" height="60" width="60" /></a>
   <br><br>

@@ -28,10 +28,10 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="qt" height="60" width="60" /> </a>
   <br>
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="60" width="60" /> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="qt" height="60" width="70" /> </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="qt" height="60" width="60" /> </a>
   <br>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="60" width="60" /> </a>
-  <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> <img src="https://png2.cleanpng.com/sh/a818e868ea19fc710b3c69872e4b3927/L0KzQYm3VMA0N6dxiZH0aYP2gLBuTgdqdpV0jAU2MUCwebF7Tf1qa6N0i9HvdD36ebBrjCd0NZp0jJ86MD24cbS7UBQ4Omo2etMBMT65Q4i3UsQ4OWI6SqQDMUC1Qoe8WcY6NqFzf3==/kisspng-windows-10-iot-microsoft-windows-iot-10-5ac43d7291ba61.6370247115228102265969.png" alt="windows10" height="65" width="65" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/226/226772.png" alt="linux" height="60" width="60" /> </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732225.png" alt="windows10" height="60" width="60" /> </a>
   <a href="https://www.kali.org/" target="_blank"> <img src="https://png2.cleanpng.com/sh/dd54fe05b8c510a93cc61788d2ad4773/L0KzQYm3VsA2N6JokZH0aYP2gLBuTftidJoyhNt3dYiwcrLqiCRzaZRwRd5yboX7PbXwkCRzcZN6jNt4bj3ydrfsjwNqfpYyg9N1aT3vebB8mL02amI7UKYEM3G4Q4eCUb45O2o9T6sAMEG4Qom5UMI0QGg7T6gCLoDxd1==/kisspng-kali-linux-backtrack-linux-distribution-offensive-kali-linux-5b168493a53691.8398795015282023876767.png" alt="git" height="60" width="70" /> </a>
   <br>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60" width="60" /> </a>

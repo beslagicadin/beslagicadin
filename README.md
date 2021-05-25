@@ -30,7 +30,7 @@
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="60" width="60" /> </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="qt" height="60" width="60" /> </a> 
   <br>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/linux.png" alt="linux" height="60" width="60" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/linux--v2.png" alt="linux" height="60" width="60" /> </a>
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732225.png" alt="windows10" height="60" width="60" /> </a>
   <a href="https://www.kali.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/kali-linux.png" alt="git" height="60" width="70" /> </a>
   <br>

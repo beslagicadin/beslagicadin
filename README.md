@@ -28,7 +28,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="qt" height="60" width="60" /> </a>
   <br>
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="60" width="60" /> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://png2.cleanpng.com/sh/14424f2e02de77bf35732ac6cbd3faec/L0KzQYm3WMA1N6RmkZH0aYP2gLBuTgZqe6ZmhJ98dIXnebE0UsAyOF5p2DtBZXzygMHsmr1xd6Z3Rd5uLYfocn7olvVkNZQyhNd3Z4Xkerb6TfRmNaF3h9l7YX3kc7tK0B4ufJpyfd5ybnWwhLr0hgRwaaR5ReZybXWwRbO9VcI5PmI1UdU9N0mxRoa8VsE3PWc2TaU8M0W5QYOCUMQveJ9s/kisspng-visual-studio-2010-d%C3%A9veloppez-pour-le-web-avec-c-lenguajes-de-programaci%C3%B3n-timeline-timetoast-time-5b65286109c479.65561656153335612904.png" alt="qt" height="60" width="70" /> </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="qt" height="60" width="70" /> </a>
   <br>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="60" width="60" /> </a>
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> <img src="https://png2.cleanpng.com/sh/a818e868ea19fc710b3c69872e4b3927/L0KzQYm3VMA0N6dxiZH0aYP2gLBuTgdqdpV0jAU2MUCwebF7Tf1qa6N0i9HvdD36ebBrjCd0NZp0jJ86MD24cbS7UBQ4Omo2etMBMT65Q4i3UsQ4OWI6SqQDMUC1Qoe8WcY6NqFzf3==/kisspng-windows-10-iot-microsoft-windows-iot-10-5ac43d7291ba61.6370247115228102265969.png" alt="windows10" height="65" width="65" /> </a>

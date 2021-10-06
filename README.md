@@ -24,8 +24,8 @@
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="60" width="60" /> </a>
   <br>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" width="60" /> </a>
-  <a href="https://www.angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="angular" height="60" width="60" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://res.cloudinary.com/rangle/image/upload/q_auto,f_auto/rangle.io/mrigk1uezwyxxftiewxg.png" alt="css3" height="60" width="60" /> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="angular" height="60" width="60" /> </a>
+  <a href="https://www.angular.io" target="_blank"> <img src="https://res.cloudinary.com/rangle/image/upload/q_auto,f_auto/rangle.io/mrigk1uezwyxxftiewxg.png" alt="css3" height="60" width="60" /> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="qt" height="60" width="60" /> </a>
   <br> 
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="60" width="60" /> </a> 

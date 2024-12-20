@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bešlagić Adin</h1>
-<h3 align="center"> 🖥️ Android and Java Backend Software Engineer at Asseco SEE ⌨️🖱️</h3>
+<h3 align="center"> 🖥️ Software Engineer at Resonate d.o.o. ⌨️🖱️</h3>
 <h3 align="center"> 📖 Bachelor of informatics and computer science 📖 </h3>
 <h3 align="center"> 📖 Currently on the Master studies in Maribor, Slovenia 📖 </h3>
+
+<h3 align="center">Teaching kids STEM at <a href="https://www.thinkbigacademy.net" target="blank">Think Big Academy Tuzla</a></h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=beslagicadin&label=Profile%20views&color=0e75b6&style=flat" alt="beslagicadin" />

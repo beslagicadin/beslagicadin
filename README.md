@@ -23,9 +23,9 @@ Tuzla</a></h3>
 
 <div align="center">
 
-**📧** [beslagicadin@gmail.com](mailto:beslagicadin@gmail.com)<br>
-**🇸🇮** [+386 69 437 424](tel:+38669437424)  
-**🇧🇦** [+387 65 094 079](tel:+38765094079)
+<strong>📧</strong> <a href="mailto:beslagicadin@gmail.com">beslagicadin@gmail.com</a><br>
+<strong>🇸🇮</strong> <a href="tel:+38669437424">+386 69 437 424</a><br>
+<strong>🇧🇦</strong> <a href="tel:+38765094079">+387 65 094 079</a>
 
 </div>
 

@@ -23,11 +23,13 @@ Tuzla</a></h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Email-beslagicadin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-<br>
-<img src="https://img.shields.io/badge/🇸🇮_Slovenia-+386_69_437_424-green?style=for-the-badge&logo=phone&logoColor=white" alt="Slovenia Phone"/>
-<br>
-<img src="https://img.shields.io/badge/🇧🇦_Bosnia-+387_65_094_079-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Bosnia Phone"/>
+📧 **Email:** `beslagicadin@gmail.com`
+
+📱 **Phone Numbers:**
+🇸🇮 Slovenia: `+386 69 437 424`
+🇧🇦 Bosnia: `+387 65 094 079`
+
+<sub>💡 <em>Tip: Click and drag to select phone numbers/email for easy copying</em></sub>
 
 </div>
 

@@ -1,14 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<style>
-    .tech-icon {
-      font-size: 60px;
-      margin: 10px;
-      transition: transform 0.3s;
-    }
-    .tech-icon:hover {
-    transform: scale(1.2);
-    }
-</style>
 <h1 align="center">Hi 👋, I'm Bešlagić Adin</h1>
 <h3 align="center"> 🖥️ Software Engineer at Resonate d.o.o. ⌨️🖱️</h3>
 <h3 align="center"> 📖 Bachelor of informatics and computer science 📖 </h3>

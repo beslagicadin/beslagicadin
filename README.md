@@ -53,33 +53,21 @@ Tuzla</a></h3>
 
 <h3 align="center">📊 GitHub Activity</h3>
 <p align="center">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">    
+        <img  alt="beslagicadin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/beslagicadin?cardType=grade&theme=dark&preferLogin=false" />  
+    </a>
+    <br><br>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">    
+        <img  alt="beslagicadin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"
+                style="height: 250px; width: 400px;" alt="Most used languages"/>  
+    </a>
     <picture align="center">
-        <source alt="GitHub Profile Summary"
-                media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&bg_color=00000000"/>
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                srcset="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true"/>
-        <img alt="GitHub Profile Summary"
-             src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&bg_color=00000000"
-             style="height: 250px; width: 400px;"/>
+        <img src="https://streak-stats.demolab.com/?user=beslagicadin&theme=dark"
+             style="height: 250px; width: 400px;" alt="Github Streak"/>
     </picture>
-    <br>
     <picture align="center">
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beslagicadin&layout=compact&bg_color=00000000"/>
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beslagicadin&layout=compact&bg_color=00000000"
-             style="height: 250px; width: 400px;" alt="Most used languages"/>
-    </picture>
-    <br>
-    <picture align="center">
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://camo.githubusercontent.com/b721e3ed9bed9b7132e954f398ad0838a0e91600e73dbee15baf5fef58afc26c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6265736c616769636164696e267468656d653d6461726b68756226636f6c756d6e3d37"/>
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true"/>
         <img src="https://camo.githubusercontent.com/b721e3ed9bed9b7132e954f398ad0838a0e91600e73dbee15baf5fef58afc26c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6265736c616769636164696e267468656d653d6461726b68756226636f6c756d6e3d37"
-             style="height: 250px; width: 400px;" alt="My Github Achievements"/>
+             style="height: 250px; width: 400px; margin: -2rem 0;" alt="My Github Achievements"/>
     </picture>
 <h3 align="center">🌐 My Tech stack 🔧</h3>
 

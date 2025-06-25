@@ -24,13 +24,13 @@ Tuzla</a></h3>
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="48"/>
     </a>
     <br>
-    <a href="tel:+38669437424" style="text-decoration: none; margin: 10px;">
+    <a href="tel:+38669437424" target="blank" style="text-decoration: none; margin: 10px;">
         <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="Phone" height="50"/>
-        <img src="https://img.icons8.com/color/48/slovenia.png" alt="Slovenian Flag" height="20"/>
+        <img src="https://img.icons8.com/color/48/slovenia.png" alt="Slovenia Flag" height="20"/>
     </a>
-    <a href="tel:+38765094079" style="text-decoration: none; margin: 10px;">
+    <a href="tel:+38765094079" target="blank" style="text-decoration: none; margin: 10px;">
         <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="Phone" height="50"/>
-        <img src="https://img.icons8.com/color/48/bosnia-and-herzegovina.png" alt="Bosnian Flag" height="20"/>
+        <img src="https://img.icons8.com/color/48/bosnia-and-herzegovina.png" alt="BiH Flag" height="20"/>
     </a>
 </p>
 

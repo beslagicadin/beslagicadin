@@ -14,27 +14,24 @@ Tuzla</a></h3>
 
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
-    <a href="https://beslagicadin.vercel.app" target="blank" style="text-decoration: none;">
+    <a href="https://beslagicadin.vercel.app" target="_blank" style="text-decoration: none;">
         <img src="https://img.icons8.com/?size=100&id=c84A8yTomT5p&format=png&color=000000" alt="Portfolio" height="50"/>
     </a>
-    <a href="https://www.linkedin.com/in/beslagicadin/" target="blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/beslagicadin/" target="_blank" style="text-decoration: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50"/>
     </a>
-    <a href="mailto:beslagicadin@gmail.com" target="blank" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="48"/>
-    </a>
-    <br>
-    <a href="tel:+38669437424" target="blank" style="text-decoration: none; margin: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="Phone" height="50"/>
-        <img src="https://img.icons8.com/color/48/slovenia.png" alt="Slovenia Flag" height="20"/>
-    </a>
-    <a href="tel:+38765094079" target="blank" style="text-decoration: none; margin: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="Phone" height="50"/>
-        <img src="https://img.icons8.com/color/48/bosnia-and-herzegovina.png" alt="BiH Flag" height="20"/>
-    </a>
+
+<div align="center">
+
+**📧** [beslagicadin@gmail.com](mailto:beslagicadin@gmail.com)<br>
+**🇸🇮** [+386 69 437 424](tel:+38669437424)  
+**🇧🇦** [+387 65 094 079](tel:+38765094079)
+
+</div>
+
+---
+
 </p>
-
-
 
 <h3 align="center">🚀 Current Projects</h3>
 <p align="center">

@@ -14,37 +14,74 @@ Tuzla</a></h3>
 
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/beslagicadin/" target="blank">
-    <img align="center"
-        alt="Adin Bešlagić LinkedIn"
-        height="60"
-        src="https://raw.githubusercontent.com/gilbarbara/logos/cf1dcda31feaae79d0b0efa5218aa0baa11b2f94/logos/linkedin-icon.svg"
-        width="60"/>
+    <a href="https://beslagicadin.vercel.app" target="blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/?size=100&id=c84A8yTomT5p&format=png&color=000000" alt="Portfolio" height="50"/>
     </a>
-    <a href="https://www.facebook.com/beslagicadin/" target="blank">
-    <img align="center"
-         alt="Adin Bešlagić Facebook"
-         height="60"
-         src="https://raw.githubusercontent.com/gilbarbara/logos/cf1dcda31feaae79d0b0efa5218aa0baa11b2f94/logos/facebook.svg"
-         width="60"/>
+    <a href="https://www.linkedin.com/in/beslagicadin/" target="blank" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50"/>
     </a>
-    <a href="https://www.instagram.com/beslagicadin/" target="blank">
-    <img align="center"
-      alt="Adin Bešlagić Instagram"
-      height="60"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      width="60"/>
+    <a href="mailto:beslagicadin@gmail.com" target="blank" style="text-decoration: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="48"/>
     </a>
-    <a href="mailto:beslagicadin@gmail.com" target="blank">
-    <img align="center"
-        alt="Adin Bešlagić Instagram"
-        height="60"
-        src="https://raw.githubusercontent.com/gilbarbara/logos/cf1dcda31feaae79d0b0efa5218aa0baa11b2f94/logos/google-gmail.svg"
-        width="60"/>
+    <br>
+    <a href="tel:+38669437424" target="blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="Phone" height="50"/>
+        <img src="https://img.icons8.com/?size=100&id=17966&format=png&color=000000" alt="Phone" height="20"/>
+    </a>
+    <a href="tel:+38765094079" target="blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="Phone" height="50"/>
+        <img src="https://img.icons8.com/?size=100&id=15504&format=png&color=000000" alt="Phone" height="20"/>
     </a>
 </p>
 
-<h3 align="center">🌐 Languages and Tools 🔧</h3>
+
+
+<h3 align="center">🚀 Current Projects</h3>
+<p align="center">
+    💼 Working on mobile solutions at Resonate d.o.o.<br>
+    📚 Completing Master's degree in Computer Science<br>
+    👨‍🏫 Teaching STEM to the next generation of engineers at Think Big Academy<br>
+    🔬 Exploring modern web technologies and cloud solutions<br>
+</p>
+
+<h3 align="center">🎯 Goals for 2024/2025</h3>
+<p align="center">
+    🚀 Contribute to open-source projects<br>
+    📈 Expand expertise in cloud technologies<br>
+    👥 Grow the STEM education community for Think Big Academy
+</p>
+
+<h3 align="center">📊 GitHub Activity</h3>
+<p align="center">
+    <picture align="center">
+        <source alt="GitHub Profile Summary"
+                media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&bg_color=00000000"/>
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                srcset="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true"/>
+        <img alt="GitHub Profile Summary"
+             src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&bg_color=00000000"
+             style="height: 250px; width: 400px;"/>
+    </picture>
+    <br>
+    <picture align="center">
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beslagicadin&layout=compact&bg_color=00000000"/>
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beslagicadin&layout=compact&bg_color=00000000"
+             style="height: 250px; width: 400px;"/>
+    </picture>
+    <br>
+    <picture align="center">
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://camo.githubusercontent.com/b721e3ed9bed9b7132e954f398ad0838a0e91600e73dbee15baf5fef58afc26c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6265736c616769636164696e267468656d653d6461726b68756226636f6c756d6e3d37"/>
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true"/>
+        <img src="https://camo.githubusercontent.com/b721e3ed9bed9b7132e954f398ad0838a0e91600e73dbee15baf5fef58afc26c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6265736c616769636164696e267468656d653d6461726b68756226636f6c756d6e3d37"
+             style="height: 250px; width: 400px;"/>
+    </picture>
+<h3 align="center">🌐 My Tech stack 🔧</h3>
 
 <h4 align="center">💻 Programming Languages</h4>
 <p align="center">
@@ -152,53 +189,6 @@ Tuzla</a></h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" height="50"/>
 </p>
-
-
-<h3 align="center">🚀 Current Projects</h3>
-<p align="center">
-    💼 Working on mobile solutions at Resonate d.o.o.<br>
-    📚 Completing Master's degree in Computer Science<br>
-    👨‍🏫 Teaching STEM to the next generation of engineers at Think Big Academy<br>
-    🔬 Exploring modern web technologies and cloud solutions<br>
-</p>
-
-<h3 align="center">🎯 Goals for 2024/2025</h3>
-<p align="center">
-    🚀 Contribute to open-source projects<br>
-    📈 Expand expertise in cloud technologies<br>
-    👥 Grow the STEM education community for Think Big Academy
-</p>
-
-<h3 align="center">📊 GitHub Activity</h3>
-<p align="center">
-    <picture align="center">
-        <source alt="GitHub Profile Summary"
-                media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&bg_color=00000000"/>
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                srcset="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true"/>
-        <img alt="GitHub Profile Summary"
-             src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&bg_color=00000000"
-             style="height: 250px; width: 400px;"/>
-    </picture>
-    <br>
-    <picture align="center">
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beslagicadin&layout=compact&bg_color=00000000"/>
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beslagicadin&layout=compact&bg_color=00000000"
-             style="height: 250px; width: 400px;"/>
-    </picture>
-    <br>
-    <picture align="center">
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://camo.githubusercontent.com/b721e3ed9bed9b7132e954f398ad0838a0e91600e73dbee15baf5fef58afc26c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6265736c616769636164696e267468656d653d6461726b68756226636f6c756d6e3d37"/>
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true"/>
-        <img src="https://camo.githubusercontent.com/b721e3ed9bed9b7132e954f398ad0838a0e91600e73dbee15baf5fef58afc26c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6265736c616769636164696e267468656d653d6461726b68756226636f6c756d6e3d37"
-             style="height: 250px; width: 400px;"/>
-    </picture>
 <hr>
 <br><br>
 <footer align="center">

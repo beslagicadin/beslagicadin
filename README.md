@@ -61,14 +61,10 @@ Tuzla</a></h3>
         <img  alt="beslagicadin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"
                 style="height: 250px; width: 400px;" alt="Most used languages"/>  
     </a>
-    <picture align="center">
-        <img src="https://streak-stats.demolab.com/?user=beslagicadin&theme=dark"
-             style="height: 250px; width: 400px;" alt="Github Streak"/>
-    </picture>
-    <picture align="center">
-        <img src="https://camo.githubusercontent.com/b721e3ed9bed9b7132e954f398ad0838a0e91600e73dbee15baf5fef58afc26c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6265736c616769636164696e267468656d653d6461726b68756226636f6c756d6e3d37"
-             style="height: 250px; width: 400px; margin: -2rem 0;" alt="My Github Achievements"/>
-    </picture>
+    <a href="https://streak-stats.demolab.com/?user=beslagicadin&theme=dark">    
+        <img  alt="beslagicadin's Most Used Languages" src="https://streak-stats.demolab.com/?user=beslagicadin&theme=dark"
+                style="height: 250px; width: 400px;" alt="Github Streak"/>  
+    </a>
 <h3 align="center">🌐 My Tech stack 🔧</h3>
 
 <h4 align="center">💻 Programming Languages</h4>

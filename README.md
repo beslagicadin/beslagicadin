@@ -19,32 +19,20 @@
 </p>
 <h3 align="center">🌐 Languages and Tools 🔧</h3>
 <p align="center">
-    <!-- Programming Languages -->
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/cf1dcda31feaae79d0b0efa5218aa0baa11b2f94/logos/java.svg" alt="Java" height="60" width="60" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60" width="60" /> </a>
-    <a href="https://www.javascript.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="60" width="60" /> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="60" width="60" /> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60" width="60" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" width="60" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="60" width="60" /> </a>
     <br>
-    
-    <!-- Frameworks and Libraries -->
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="60" width="60" /> </a>
-    <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="60" width="60" /> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js" height="60" width="60" /> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="60" width="60" /> </a>
+    <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" height="60" width="60" /> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="60" width="60" /> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="60" width="60" /> </a>
     <br>
-
-    <!-- Tools and Platforms -->
-    <a href="https://www.docker.com" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" height="60" width="60" /> </a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="60" width="60" /> </a>
-    <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="60" width="60" /> </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-logo.png" alt="Visual Studio" height="60" width="60" /> </a>
-    <br>
-
-    <!-- Operating Systems -->
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="60" width="60" /> </a>
-    <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" height="60" width="60" /> </a>
-    <br>
-
-    <!-- Version Control -->
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" width="60" /> </a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="60" width="60" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="60" width="60" /> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="60" width="60" /> </a>
 </p>
 
 <h3 align="center">🚀 Current Projects</h3>
@@ -65,7 +53,7 @@
 
 <h3 align="center">📊 GitHub Activity</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=beslagicadin&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=beslagicadin&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -88,7 +76,7 @@
 </p>
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=beslagicadin&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=beslagicadin&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <br><br>

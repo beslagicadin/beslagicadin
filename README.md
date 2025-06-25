@@ -46,52 +46,55 @@ Tuzla</a></h3>
 
 <h3 align="center">🌐 Languages and Tools 🔧</h3>
 <p align="center">
-    <!-- Languages -->
-    <i class="devicon-java-plain colored tech-icon" title="Java"></i>
-    <i class="devicon-python-plain colored tech-icon" title="Python"></i>
-    <i class="devicon-kotlin-plain colored tech-icon" title="Kotlin"></i>
-    <i class="devicon-c-plain colored tech-icon" title="C"></i>
-    <i class="devicon-cplusplus-plain colored tech-icon" title="C++"></i>
-    <i class="devicon-csharp-plain colored tech-icon" title="C#"></i>
-    <i class="devicon-html5-plain colored tech-icon" title="HTML"></i>
-    <i class="devicon-css3-plain colored tech-icon" title="CSS"></i>
-    <i class="devicon-typescript-plain colored tech-icon" title="TypeScript"></i>
-    <i class="devicon-javascript-plain colored tech-icon" title="JavaScript"></i>
-    <i class="devicon-sqlite-plain colored tech-icon" title="SQL"></i>
-    <!-- CSS Tools -->
-    <i class="devicon-sass-original colored tech-icon" title="SASS/SCSS"></i>
-    <i class="devicon-bootstrap-plain colored tech-icon" title="Bootstrap"></i>
-    <i class="devicon-tailwindcss-plain colored tech-icon" title="Tailwind CSS"></i>
-    <i class="devicon-materialui-plain colored tech-icon" title="Material UI"></i>
-    <!-- Frameworks & Back‑end -->
-    <i class="devicon-angularjs-plain colored tech-icon" title="Angular"></i>
-    <i class="devicon-react-original colored tech-icon" title="React"></i>
-    <i class="devicon-react-original-wordmark colored tech-icon" title="React Native"></i>
-    <i class="devicon-django-plain colored tech-icon" title="Django"></i>
-    <i class="devicon-flask-original colored tech-icon" title="Flask"></i>
-    <i class="devicon-spring-plain colored tech-icon" title="Spring"></i>
-    <i class="devicon-spring-plain-wordmark colored tech-icon" title="Spring Boot"></i>
-    <i class="devicon-maven-original colored tech-icon" title="Maven"></i>
-    <i class="devicon-qt-original colored tech-icon" title="Qt"></i>
-    <i class="devicon-androidoriginal colored tech-icon" title="Jetpack Compose"></i>
-    <!-- IDEs & Tools -->
-    <i class="devicon-visualstudio-plain colored tech-icon" title="Visual Studio"></i>
-    <i class="devicon-visualstudiocode-plain colored tech-icon" title="Visual Studio Code"></i>
-    <i class="devicon-arduino-plain colored tech-icon" title="Arduino IDE"></i>
-    <i class="devicon-jetbrains-plain colored tech-icon" title="JetBrains IDEs"></i>
-    <i class="devicon-git-plain colored tech-icon" title="Git"></i>
-    <i class="devicon-docker-plain colored tech-icon" title="Docker"></i>
-    <i class="devicon-aws-plain colored tech-icon" title="AWS"></i>
-    <i class="devicon-azure-plain colored tech-icon" title="Azure"></i>
-    <i class="devicon-mongodb-plain colored tech-icon" title="MongoDB"></i>
-    <i class="devicon-postgresql-plain colored tech-icon" title="PostgreSQL"></i>
-    <i class="devicon-mysql-plain colored tech-icon" title="MySQL"></i>
-    <i class="devicon-oracle-original colored tech-icon" title="Oracle Database"></i>
-    <i class="devicon-slack-plain colored tech-icon" title="Slack"></i>
-    <i class="devicon-jenkins-line colored tech-icon" title="Jenkins"></i>
-    <i class="devicon-bitbucket-plain colored tech-icon" title="Bitbucket"></i>
-    <i class="devicon-postman-plain colored tech-icon" title="Postman"></i>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS/SCSS" height="50"/>
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" height="50"/>
+  
+  <!-- IDEs & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="OracleDB" height="50"/>
+
+  <!-- DevOps / CI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" height="50"/>
 </p>
+
 
 <h3 align="center">🚀 Current Projects</h3>
 <p align="center">

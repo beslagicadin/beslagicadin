@@ -24,16 +24,14 @@ Tuzla</a></h3>
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="48"/>
     </a>
     <br>
-    <span style="display: inline-block; text-align: center; margin: 5px;">
+    <a href="tel:+38669437424" style="text-decoration: none; margin: 10px;">
         <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="Phone" height="50"/>
-        <img src="https://img.icons8.com/?size=100&id=17966&format=png&color=000000" alt="WhatsApp" height="20"/>
-        <br><small>+386 69 437 424</small>
-    </span>
-    <span style="display: inline-block; text-align: center; margin: 5px;">
+        <img src="https://img.icons8.com/color/48/slovenia.png" alt="Slovenian Flag" height="20"/>
+    </a>
+    <a href="tel:+38765094079" style="text-decoration: none; margin: 10px;">
         <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="Phone" height="50"/>
-        <img src="https://img.icons8.com/?size=100&id=15504&format=png&color=000000" alt="Viber" height="20"/>
-        <br><small>+387 65 094 079</small>
-    </span>
+        <img src="https://img.icons8.com/color/48/bosnia-and-herzegovina.png" alt="Bosnian Flag" height="20"/>
+    </a>
 </p>
 
 

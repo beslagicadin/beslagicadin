@@ -23,17 +23,10 @@ Tuzla</a></h3>
 
 <div align="center">
 
-📧 **Email:** `beslagicadin@gmail.com`
-
-📱 **Phone Numbers:**
-🇸🇮 Slovenia: `+386 69 437 424`
-🇧🇦 Bosnia: `+387 65 094 079`
-
-<sub>💡 <em>Tip: Click and drag to select phone numbers/email for easy copying</em></sub>
-
+📧 **[Email me](https://beslagicadin.vercel.app#email)** - `beslagicadin@gmail.com`<br>
+🇸🇮 **[Call Slovenia](https://beslagicadin.vercel.app#si)** - `+386 69 437 424`<br>
+🇧🇦 **[Call Bosnia](https://beslagicadin.vercel.app#bih)** - `+387 65 094 079`<br>
 </div>
-
----
 
 </p>
 

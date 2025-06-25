@@ -61,10 +61,6 @@ Tuzla</a></h3>
         <img  alt="beslagicadin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"
                 style="height: 250px; width: 400px;" alt="Most used languages"/>  
     </a>
-    <a href="https://streak-stats.demolab.com/?user=beslagicadin&theme=dark">    
-        <img  alt="beslagicadin's Most Used Languages" src="https://streak-stats.demolab.com/?user=beslagicadin&theme=dark"
-                style="height: 250px; width: 400px;" alt="Github Streak"/>  
-    </a>
 <h3 align="center">🌐 My Tech stack 🔧</h3>
 
 <h4 align="center">💻 Programming Languages</h4>

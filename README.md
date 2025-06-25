@@ -43,14 +43,14 @@
 </p>
 <br>
 <picture align="center">
-            <source srcset="[https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?PAT_1=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&username=beslagicadin&show_icons=true&theme=dark)" media="(prefers-color-scheme: dark)" />
-            <source srcset="[https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true](https://github-readme-stats.vercel.app/api?PAT_1=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&username=beslagicadin&show_icons=true&theme=dark)" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img style="height: 250; width: 400;" src="https://github-readme-stats.vercel.app/api?PAT_1=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&username=beslagicadin&show_icons=true&theme=dark" />
+            <source srcset="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+            <source srcset="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <img style="height: 250; width: 400;" src="https://github-readme-stats.vercel.app/api?username=beslagicadin&show_icons=true&theme=dark" />
         </picture>
 <picture align="center">
-            <source srcset="[https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?PAT_1=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&username=beslagicadin&show_icons=true&theme=dark)" media="(prefers-color-scheme: dark)" />
-            <source srcset="[https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true](https://github-readme-stats.vercel.app/api?PAT_1=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&username=beslagicadin&show_icons=true&theme=dark)" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img style="height: 250; width: 400;" src="https://github-readme-stats.vercel.app/api/top-langs?PAT_1=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&username=beslagicadin&show_icons=true&theme=dark" />
+            <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+            <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <img style="height: 250; width: 400;" src="https://github-readme-stats.vercel.app/api/top-langs?username=beslagicadin&show_icons=true&theme=dark" />
         </picture>
 
 <br><br>

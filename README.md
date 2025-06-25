@@ -23,9 +23,11 @@ Tuzla</a></h3>
 
 <div align="center">
 
-<strong>📧</strong> <a href="mailto:beslagicadin@gmail.com">beslagicadin@gmail.com</a><br>
-<strong>🇸🇮</strong> <a href="tel:+38669437424">+386 69 437 424</a><br>
-<strong>🇧🇦</strong> <a href="tel:+38765094079">+387 65 094 079</a>
+<img src="https://img.shields.io/badge/Email-beslagicadin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<br>
+<img src="https://img.shields.io/badge/🇸🇮_Slovenia-+386_69_437_424-green?style=for-the-badge&logo=phone&logoColor=white" alt="Slovenia Phone"/>
+<br>
+<img src="https://img.shields.io/badge/🇧🇦_Bosnia-+387_65_094_079-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Bosnia Phone"/>
 
 </div>
 

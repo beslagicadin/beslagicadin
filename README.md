@@ -50,8 +50,8 @@ Tuzla</a></h3>
         <img  alt="beslagicadin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/beslagicadin?cardType=grade&theme=dark&preferLogin=false" />  
     </a>
     <br><br>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">    
-        <img  alt="beslagicadin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beslagicadin&layout=compact">    
+        <img  alt="beslagicadin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beslagicadin&layout=compact&theme=dark"
                 style="height: 250px; width: 400px;" alt="Most used languages"/>  
     </a>
 <h3 align="center">🌐 My Tech stack 🔧</h3>

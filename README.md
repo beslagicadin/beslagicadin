@@ -32,7 +32,7 @@ Tuzla</a></h3>
 <h3 align="center">🚀 Current Projects</h3>
 <p align="center">
     💼 Working on web solutions at Cape Ann Enterprises<br>
-    👨‍🏫 Teaching Web programming, Java programming and Mobile Apps Development curiculums on Internationa Bussines Information Academy Tuzla<br>
+    👨‍🏫 Teaching Web programming, Java programming and Mobile Apps Development curriculums at International Business Information Academy Tuzla<br>
     👨‍🏫 Teaching STEM to the next generation of engineers at Think Big Academy<br>
     🔬 Exploring modern web technologies and cloud solutions<br>
 </p>

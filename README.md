@@ -24,20 +24,20 @@ Tuzla</a></h3>
 
 📧 **[Email me](https://beslagicadin.vercel.app#email)** - `beslagicadin@gmail.com`<br>
 🇸🇮 **[Call Slovenia](https://beslagicadin.vercel.app#si)** - `+386 69 437 424`<br>
-🇧🇦 **[Call Bosnia](https://beslagicadin.vercel.app#bih)** - `+387 65 094 079`<br>
+🇧🇦 **[Call Bosnia](https://beslagicadin.vercel.app#bih)** - `+387 65 439 671`<br>
 </div>
 
 </p>
 
 <h3 align="center">🚀 Current Projects</h3>
 <p align="center">
-    💼 Working on mobile solutions at Resonate d.o.o.<br>
-    📚 Completing Master's degree in Computer Science<br>
+    💼 Working on web solutions at Cape Ann Enterprises<br>
+    👨‍🏫 Teaching Web programming, Java programming and Mobile Apps Development curiculums on Internationa Bussines Information Academy Tuzla<br>
     👨‍🏫 Teaching STEM to the next generation of engineers at Think Big Academy<br>
     🔬 Exploring modern web technologies and cloud solutions<br>
 </p>
 
-<h3 align="center">🎯 Goals for 2024/2025</h3>
+<h3 align="center">🎯 Goals for 2026/2027</h3>
 <p align="center">
     🚀 Contribute to open-source projects<br>
     📈 Expand expertise in cloud technologies<br>

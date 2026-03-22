@@ -165,5 +165,5 @@ Tuzla</a></h3>
 <hr>
 <br><br>
 <footer align="center">
-    <small>&copy; Copyright 2025, Adin Bešlagić | 🌟 Feel free to connect and collaborate!</small>
+    <small>&copy; Copyright 2026, Adin Bešlagić | 🌟 Feel free to connect and collaborate!</small>
 </footer>

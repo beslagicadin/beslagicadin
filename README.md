@@ -35,6 +35,7 @@ Tuzla</a></h3>
     👨‍🏫 Teaching Web programming, Java programming and Mobile Apps Development curriculums at International Business Information Academy Tuzla<br>
     👨‍🏫 Teaching STEM to the next generation of engineers at Think Big Academy<br>
     🔬 Exploring modern web technologies and cloud solutions<br>
+    🛠️ Building and maintaining open-source tools<br>
 </p>
 
 <h3 align="center">🎯 Goals for 2026/2027</h3>
